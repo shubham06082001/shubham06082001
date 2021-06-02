@@ -5,7 +5,7 @@
 -  https://your-places-1f0bc.web.app/auth
 -  https://covid-live-tracker.netlify.app/
 -  https://clever-kalam-837533.netlify.app/
--  https://dev--hub.herokuapp.com/register
+-  https://dev--hub.herokuapp.com/
 
 <!---
 shubham06082001/shubham06082001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

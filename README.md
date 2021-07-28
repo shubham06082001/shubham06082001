@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SHUBHAM KUMAR.
 - 👀 I’m interested in MACHINE LEARNING, ARTIFICIAL INTELLIGENCE & BLOCKCHAIN.
-- 🌱 I’m currently learning MACHINE LEARNING.
+- 🌱 I’m currently learning iOS Development.
 - 💞️ I’m looking to collaborate on ML PROJECTS & APP DEVELOPMENT
 -  https://your-places-1f0bc.web.app/auth
 -  https://covid-live-tracker.netlify.app/
